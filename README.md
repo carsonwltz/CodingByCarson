@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Carson
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me @carson07_ on Twitter
 
 <!---
 CodingByCarson/CodingByCarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
