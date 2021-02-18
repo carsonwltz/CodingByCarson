@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Carson
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @carson07_ on Twitter
 
 <!---
