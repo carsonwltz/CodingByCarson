@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Carson
-- 👀 I’m interested in Web Developement
+- 👋 Hi, I’m Carson, a 13-year-old Web Developer
 - 🌱 I’m currently learning discord.js
 
 <!---
