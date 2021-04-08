@@ -1,10 +1,10 @@
-<h4 align="center">Hey, I'm Carson :)</h4>
+<h2 align="center">Hey, I'm Carson :)</h2>
 
-<p align="center">
+<h4 align="center">
   <a href="https://codingbycarson.com">Website</a>
   •
   <a href="https://twitter.com/carson07_">Twitter</a>
-</p>
+</h4>
 
 ---
 I'm a 13-year-old web developer learning everyday and working on contributing to open source projects.
