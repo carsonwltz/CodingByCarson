@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Carson :)</h2>
+<h3 align="center">Hey, I'm Carson :)</h3>
 
 <h4 align="center">
   <a href="https://codingbycarson.com">Website</a>
