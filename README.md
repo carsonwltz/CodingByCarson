@@ -9,7 +9,7 @@
 ---
 I'm a 13-year-old web developer learning everyday and working on contributing to open source projects.
 
-- I am currently working on: <a href="https://github.com/CodingByCarson/A-Better-Twitch-Homepage">A Better Twitch Homepage</a>
+- I am currently working on TBA
 
 
 ---
