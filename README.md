@@ -9,7 +9,7 @@
 ---
 I'm a 13-year-old web developer learning everyday and working on contributing to open source projects.
 
-- I am currently working on TBA
+- I am currently working on building my resume :)
 
 
 ---
