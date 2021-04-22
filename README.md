@@ -7,10 +7,9 @@
 </h4>
 
 ---
-I'm a 13-year-old web developer learning everyday and working on contributing to open source projects.
+Hey, I'm Carson, a 13-year-old web developer working on projects and supporting open source projects. I started web development around the beginning of 2020 because of my interest in game dev before hand and I wanted to try something other than game dev and soon fell in love with web dev. I'm still learning everyday and posting tips and advice on my Twitter, I also explore the philosophy of life a lot and sometimes tweet about it but, on the side I like watching Twitch, I also stream sometimes, usually playing Trackmania or Destiny 2. But nowadays I rarely play games anymore because of my strong interest in web development.
 
-- I am currently working on building my resume :)
-
+I barely ever promote my Twitch channel but if you want to check it out you can: https://twitch.tv/waltzedontwitch
 
 ---
 
