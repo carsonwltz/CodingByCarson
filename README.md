@@ -7,7 +7,7 @@
 </h4>
 
 ---
-14. Web development. Tech. Gaming. Twitch. 
+14. Web development. Tech. Twitch. 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbycarson&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
